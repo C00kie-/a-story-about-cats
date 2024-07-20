@@ -1,5 +1,13 @@
 # Summer camp: Teaching my mom to code
 
+### **Goals:**
+
+- Teach her web development
+- Keep her motivated for the coming weeks
+- Create a positive feedback loop to share/correct code with her
+- Pass time with my mom
+- Overall: Have fun!
+
 ## Steps:
 
 ### Operating system:
