@@ -6,7 +6,7 @@
 - Keep her motivated for the coming weeks
 - Create a positive feedback loop to share/correct code with her
 - Pass time with my mom
-- Overall: Have fun!
+- Most important: Have fun!
 
 ## Steps:
 
