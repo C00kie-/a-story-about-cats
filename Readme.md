@@ -1,4 +1,8 @@
-# Summer camp: Teaching my mom to code
+# A story about cats
+
+![img](./cat.jpeg)
+
+##  Summer camp: Teaching my mom to code
 
 ### **Goals:**
 
