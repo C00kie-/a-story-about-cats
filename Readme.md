@@ -2,7 +2,7 @@
 
 ![img](./cat.jpeg)
 
-##  Summer camp: Teaching my mom to code (and me)
+##  Journal: Teaching my mom to code (and me)
 
 ### **Goals:**
 
