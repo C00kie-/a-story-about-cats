@@ -2,14 +2,14 @@
 
 ![img](./cat.jpeg)
 
-##  Summer camp: Teaching my mom to code
+##  Summer camp: Teaching my mom to code (and me)
 
 ### **Goals:**
 
-- Teach her web development
-- Keep her motivated for the coming weeks
+- Learn web development
+- Keep her/me motivated for the coming weeks
 - Create a positive feedback loop to share/correct code with her
-- Pass time with my mom
+- Pass time with my mom/the coolest part
 - Most important: Have fun!
 
 ## Steps:
@@ -21,4 +21,6 @@
 - Have her installed ollama within the terminal on Ubuntu using ```curl```
 
 ### Web development:
-- [First lesson: Learn HTML by Building a Cat Photo App](https://www.freecodecamp.org/learn/2022/responsive-web-design/) :white_check_mark:
+- [First lesson: Learn HTML by Building a Cat Photo App](https://www.freecodecamp.org/learn/2022/responsive-web-design/) :white_check_mark: (Freecodecamp)
+
+  
