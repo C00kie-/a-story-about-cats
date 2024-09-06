@@ -2,14 +2,14 @@
 
 ![img](./cat.jpeg)
 
-##  Journal: Teaching my mom to code (and me)
+##  Journal: Teaching my mom to code 
 
 ### **Goals:**
 
 - Learn web development
 - Keep her/me motivated for the coming weeks
 - Create a positive feedback loop to share/correct code with her
-- Pass time with my mom/the coolest part
+- Pass time with my mom, the coolest part
 - Most important: Have fun!
 
 ## Steps:
