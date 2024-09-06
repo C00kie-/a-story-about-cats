@@ -14,6 +14,10 @@
 
 ## Steps:
 
+## To do:
+
+- Use Git
+  
 ### Operating system:
 - Install Ubuntu on the machine: mom using Ubuntu :white_check_mark:
 
